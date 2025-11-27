@@ -1,4 +1,0 @@
-lab6_sortingalgorithms.StudentSorter
-lab6_sortingalgorithms.ArraySorting
-lab6_sortingalgorithms.Student
-lab6_sortingalgorithms.Lab6Main
